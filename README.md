@@ -5,6 +5,7 @@ Anyone is welcome to contribute to this list, simply submit a PR with a link to 
 
 ## Featured Projects
 Show off your projects built using Tabulator
+
 **Framework Components**
   * [React Tabulator](https://github.com/ngduc/react-tabulator) - A React component for Tabulator
   * [Vue Taulator](https://vue-tabulator.netlify.app/) - A Vue component for Tabulator
