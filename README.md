@@ -10,6 +10,7 @@ Show off your projects built using Tabulator
   * [React Tabulator](https://github.com/ngduc/react-tabulator) - A React component for Tabulator
   * [Vue Taulator](https://vue-tabulator.netlify.app/) - A Vue component for Tabulator
   * [Orgenic UI](https://orgenic.org/) - Ready-to-use web components for creating User Experience driven HTML5 applications
+  * [Panel](https://awesome-panel.readthedocs.io/en/latest/packages/awesome-panel-extensions/index.html#tabulator) - A widget for the Python based Panel dashboard
   
 **Language Ports** - Bringing Tabulator Into New Languages
   * [TypeScript](https://github.com/Jojoshua/TypedTabulator) - Typescript Typings
