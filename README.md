@@ -27,6 +27,7 @@ Show off your projects built using Tabulator
 
 Links to Code Pen's or JS Fiddles that demonstrate how to use certain table features
 
+**Angular Component Setup**
 * [Angular Setup Example](https://github.com/Fr1edrick/AngularTabulator) - Setting up an Angular 8.3.28 component with tabulator
 * [Angular Setup Example](https://github.com/David-Mawer/tabulator-angular-sample) - Setting up an Angular 9.1.7 component with tabulator
 
