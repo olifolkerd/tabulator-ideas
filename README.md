@@ -21,7 +21,7 @@ Show off your projects built using Tabulator
 
 **Exciting Projects**
   * [MicrobeTrace](https://microbetrace.cdc.gov/MicrobeTrace/) - Visualization Multitool for Molecular Epidemiology and Bioinformatics
-
+  * [Datagroom](https://github.com/h-tendy/datagroom-gateway) - Aims to provide tools to maintain and groom arbitrary table-like datasets with a simple and intuitive user-experience.
 
 ## Useful Snippets and Examples
 
