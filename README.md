@@ -18,6 +18,7 @@ Show off your projects built using Tabulator
 **Developer Tools**
    * [Beekeeper Studio](https://www.beekeeperstudio.io/) - An Open Source SQL Editor and Database Manager 
    * [Stalk Studio](https://github.com/dgurkaynak/stalk-studio) - An experimental debugger & profiler built on top of distributed tracing
+   * [VSCode Tabulator](https://github.com/RandomFractals/vscode-tabulator) - VSCode data grid extension and notebook cell output renderer for viewing data with Tabulator
 
 **Exciting Projects**
   * [MicrobeTrace](https://microbetrace.cdc.gov/MicrobeTrace/) - Visualization Multitool for Molecular Epidemiology and Bioinformatics
