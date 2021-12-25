@@ -18,6 +18,7 @@ Show off your projects built using Tabulator
 **Developer Tools**
    * [Beekeeper Studio](https://www.beekeeperstudio.io/) - An Open Source SQL Editor and Database Manager 
    * [Stalk Studio](https://github.com/dgurkaynak/stalk-studio) - An experimental debugger & profiler built on top of distributed tracing
+   * [Tabular Data Viewer](https://marketplace.visualstudio.com/items?itemName=RandomFractalsInc.tabular-data-viewer) - Visual Studio Code Table View extension for viewing .csv, .tsv and .tab data files with Tabulator.
 
 **Exciting Projects**
   * [MicrobeTrace](https://microbetrace.cdc.gov/MicrobeTrace/) - Visualization Multitool for Molecular Epidemiology and Bioinformatics
